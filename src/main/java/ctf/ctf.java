@@ -1,0 +1,2 @@
+package ctf;
+class ctf {};
